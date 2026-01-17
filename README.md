@@ -1,7 +1,8 @@
 # my-portfolio
 
 Hello! I am Rideeka, a Management Information Systems student.  
-This repository hosts my portfolio, which I am building to showcase my learning journey and digital projects.
+This repository hosts my portfolio, which I am currently building using my skills.
+
 
 ## About
 Currently, I have developed my frontend skills using HTML and CSS, and I am excited to learn more technologies and frameworks to enhance my frontend expertise in the future. 
